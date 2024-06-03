@@ -1,5 +1,5 @@
 ---
-title: "Collaborations and Projects"
+title: "Potential for collaborations and overview of running projects"
 author: 
   - name: Gerko Vink
     orcid: 0000-0001-9767-1924
