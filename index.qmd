@@ -1,0 +1,83 @@
+---
+title: "Collaborations and Projects"
+author: 
+  - name: Gerko Vink
+    orcid: 0000-0001-9767-1924
+    email: g.vink@uu.nl
+    affiliations:
+      - name: Methodology & Statistics @ Utrecht University
+date: 4 June 2024
+date-format: "D MMM YYYY"
+execute: 
+  echo: true
+format: 
+  revealjs:
+    theme: [solarized, gerko.scss]
+    progress: true
+    margin: 0.075
+    logo: logo.png 
+    toc: false
+    toc-depth: 1
+    toc-title: Outline
+    slide-number: true
+    scrollable: false
+    width: 1200
+    reference-location: margin
+    footer: Gerko Vink @ UU/WODC, 4 June 2024, Utrecht
+    standalone: true
+---
+
+## In no particular order
+
+- **Dark and incomplete Data**
+  
+  - Data problems where not all information to find the answer has been (made) available
+  
+- **Computational Evaluation**
+  
+  - To what extend can the solutions offered by algorithms be used and trusted? And how can we make this work for us?
+  
+- **Machine learning**
+  
+  - A preference for adversarial modeling
+  - Bridging the gap between statistics and computer science
+  
+- **Software Development**
+ 
+  - Giving users the necesseary tools to work with data in a timely manner
+  
+- **Generative AI in Higher Education**
+ 
+  - The past, current and future scope of AI use/skills by students and faculty alike
+
+
+## Running and recently finished projects
+
+- **Dark and incomplete Data**
+  
+  - `mice` in `R` (code developer)
+  - `jaspImputation` in `JASP` (ongoing)
+  - research and development of imputation methodology. e.g. `mice.impute.xbgoost()` and `mice.impute.bart()` and `mice.impute.stan4bart()` (ongoing)
+  
+- **Computational Evaluation**
+  - `shinyMice` in `R` (with Hanne Oberman)  
+  - Oberman, H. I., & Vink, G. (2024). Toward a standardized evaluation of imputation methodology. Biometrical Journal, 66, 2200107. https://doi.org/10.1002/bimj.202200107
+  - Cai, M., van Buuren, S., & Vink, G. (2023). Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking. Heliyon, 9(6). https://doi.org/10.1016/j.heliyon.2023.e17077
+  
+## Running and recently finished projects
+
+- **Machine learning**
+  
+  - Predictive modeling for high-dimensional systems (with Sara van Erp and Florian van Leeuwen )
+  
+- **Software Development**
+ 
+  ![](img/mice.png){width=15%}
+- [www.gerkovink.com/simulate/](https://www.gerkovink.com/simulate/) <br> [![DOI](https://zenodo.org/badge/577246981.svg)](https://zenodo.org/badge/latestdoi/577246981)
+
+## Other interests
+- **Generative AI in Higher Education**
+ 
+  - https://teaching-and-learning-collection.sites.uu.nl/project/ai-in-higher-education/
+  - [www.gerkovink.com/ai](https://www.gerkovink.com/ai) (just started)
+
