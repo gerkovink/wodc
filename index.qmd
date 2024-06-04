@@ -55,7 +55,7 @@ format:
 
 - **Dark and incomplete Data**
   
-  - `mice` in `R` (code developer)
+  - `mice` in `R` (core developer)
   - `jaspImputation` in `JASP` (ongoing)
   - research and development of imputation methodology. e.g. `mice.impute.xbgoost()` and `mice.impute.bart()` and `mice.impute.stan4bart()` (ongoing)
   
@@ -68,7 +68,7 @@ format:
 
 - **Machine learning**
   
-  - Predictive modeling for high-dimensional systems (with Sara van Erp and Florian van Leeuwen )
+  - Predictive modeling for high-dimensional systems (with Sara van Erp and Florian van Leeuwen)
   
 - **Software Development**
  
