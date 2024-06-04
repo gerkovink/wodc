@@ -75,8 +75,8 @@ I owe a debt of gratitude to many people as the thoughts and projects in these s
   
 - **Computational Evaluation**
   - `shinyMice` in `R` (with Hanne Oberman)  
-  - Oberman, H. I., & Vink, G. (2024). Toward a standardized evaluation of imputation methodology. Biometrical Journal, 66, 2200107. https://doi.org/10.1002/bimj.202200107
-  - Cai, M., van Buuren, S., & Vink, G. (2023). Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking. Heliyon, 9(6). https://doi.org/10.1016/j.heliyon.2023.e17077
+  - Oberman, H. I., & Vink, G. (2024). Toward a standardized evaluation of imputation methodology. Biometrical Journal, 66, 2200107. [https://doi.org/10.1002/bimj.202200107](https://doi.org/10.1002/bimj.202200107)
+  - Cai, M., van Buuren, S., & Vink, G. (2023). Graphical and numerical diagnostic tools to assess multiple imputation models by posterior predictive checking. Heliyon, 9(6). [https://doi.org/10.1016/j.heliyon.2023.e17077](https://doi.org/10.1016/j.heliyon.2023.e17077)
   
 ## Running and recently finished projects
 
