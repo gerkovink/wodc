@@ -27,6 +27,21 @@ format:
     standalone: true
 ---
 
+## Disclaimer
+
+I owe a debt of gratitude to many people as the thoughts and projects in these slides are the process of years-long development cycles and discussions with my team, friends, colleagues and peers. Most notably:
+
+- Stef van Buuren, Jeroen Pannekoek
+- Hanne Oberman, Thom Volker, Duco Veen, Rianne Schouten
+- Mingyang Cai and Huma Shehwana
+- Sara van Erp, Kyle Lang, Shahab Jolani, Laurence Frank
+
+::: callout-tip
+# Materials
+- source: [github.com/gerkovink/wodc](https://github.com/gerkovink/wodc)
+- website: [www.gerkovink.com](https://www.gerkovink.com)
+:::
+
 ## In no particular order
 
 - **Dark and incomplete Data**
@@ -49,7 +64,8 @@ format:
 - **Generative AI in Higher Education**
  
   - The past, current and future scope of AI use/skills by students and faculty alike
-
+  - Muijzer, M. B., Hoven, C. M. W., Frank, L. E., Vink, G., & Wisse, R. P. (2022). A machine learning approach to explore predictors of graft detachment following posterior lamellar keratoplasty: a nationwide registry study. Scientific Reports, 12(1), 17705.
+  - UMCU/Zeiss: AI in Ophthalmology
 
 ## Running and recently finished projects
 
@@ -69,6 +85,7 @@ format:
 - **Machine learning**
   
   - Predictive modeling for high-dimensional systems (with Sara van Erp and Florian van Leeuwen)
+  - 
   
 - **Software Development**
  
