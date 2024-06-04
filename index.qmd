@@ -70,7 +70,7 @@ I owe a debt of gratitude to many people as the thoughts and projects in these s
 - **Dark and incomplete Data**
   
   - `mice` in `R` (core developer)
-  - `jaspImputation` in `JASP` (ongoing)
+  - `jaspImputation` in `JASP` (ongoing - with Kyle Lang)
   - research and development of imputation methodology. e.g. `mice.impute.xbgoost()` and `mice.impute.bart()` and `mice.impute.stan4bart()` (ongoing)
   
 - **Computational Evaluation**
